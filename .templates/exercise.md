@@ -8,11 +8,7 @@
 | Duration | EXERCISE_DURATION_KEEP_UNDER_4_HOURS |
 
 
-## Stones
 
-Use the following steps to help you progress through the exercise (use your best judgment, these are not precise steps):
-
-1. ...
 
 ## Questions
 
